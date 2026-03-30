@@ -12,4 +12,4 @@ Each individual *'spark'* message is divided into 6 times of the day;
 - dinner
 - after dinner / night
 
-  In order to get your reccomended *'spark'*, you must input a time of day that is valid to the list above.
+ In order to get your reccomended *'spark'*, you must input a time of day that is valid to the list above.
